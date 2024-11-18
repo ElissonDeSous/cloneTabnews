@@ -3,7 +3,9 @@ export default function home  ()
     
     return(
        <div>
-          <h1>Ola Mundo</h1>
+        
+        <h1>Estudando curso.dev</h1>
+
        </div>
     );
 }
